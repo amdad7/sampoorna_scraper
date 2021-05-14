@@ -1,0 +1,212 @@
+id,name,admission_no,gender,uid,mothers_name,fathers_name,occupation,rationcard,address,phone_no,dob,religion,caste,category,blood_group
+1, ARCHANA ,28347,Female,2.56505E+11,CHITHRA .VK,RAVI .G,COOLI,BPL,"VADAKKE KAYAKKALI CHERUVATTA 
+        Kozhikode
+       Kozhikode Corporation PARAMBILpo 673012 
+        Kozhikode
+      ,673012",9947182149,        04/05/2007,Hindu,THIYYA,OBC,-
+2,ABAN MUHAMMED V K,28958,Male,2.84918E+11,ABITHA P A,MUHAMMED MUSTHAFA V K,-,APL,"VAYYATTUKAVIL  KARAKKAD Ongallur Grama Panchayath Ongallur Grama Panchayath Pattambi KONDOORKKARApo Palakkad 
+        Palakkad
+       679313",9846925604,        14/05/2008,Muslim,MAPPILA,OBC,A+
+3,ABDUL HADI .V,28344,Male,5.30822E+11,SHAHINA .K,M.K. NAJEEB,COOLI,APL,"VALLIL HOUSE MOOZHIKKAL 
+        Kozhikode
+       Kozhikode Corporation CHELAVOORpo 673571 
+        Kozhikode
+      ,673571",9562625368,        20/08/2007,Islam,mappila,OBC,-
+4,ABINANTHA K,28493,Female,9.61658E+11,ANEESHA K,BAIJU . K,-,BPL,"KUNIYEDATH POTTAMMAL CHERUVATTA Kuruvattur Grama Panchayath Kuruvattur Grama Panchayath Kunnamangalam PARAMBILpo Kozhikode 
+        Kozhikode
+       673012",9645460596,        16/12/2006,Hindu,THIYAA,OBC,-
+5,ABINAV T M,28343,Male,6.4E+11,MILIJA P,ANIL KUMAR,-,APL,"THAYIL THODIKAYIL  CHERUVATTA Kuruvattur Grama Panchayath Kuruvattur Grama Panchayath Kunnamangalam PARAMBIL  BAZAR po Kozhikode 
+        Kozhikode
+       673017",9539770570,        17/08/2007,Hindu,Thiyya,OBC,O+
+6,AMAN .V.K,28353,Male,2.00253E+11,JASEENA .P.P,FINZER .V.K,BUSINEES,APL,"CHERALODY POOLAKADAVU 
+        Kozhikode
+       Kozhikode Corporation MARIKKUNNUpo 673012 
+        Kozhikode
+      ,673012",9287151234,        05/09/2006,Islam,mappila,OBC,-
+7,ASWIN SANOJ K,28281,Male,7.57354E+11,SHYNI,SANOJ .K,-,APL,"KAILADI MOOZHIKKAL 
+        Kozhikode
+       Kozhikode Corporation CHELAVOORpo 673571 
+        Kozhikode
+      ,673571",8086264083,        17/01/2007,Hindu,THIYYA,OBC,A+
+8,C NASIM AHAMMED,29351,Male,6.75022E+11,ABITHA P I,ABDUL GAFOOR C,TEACHER,APL,"CHERALIKODE HOUSE VELLALASSERY 
+        Kozhikode
+       Kozhikode Corporation VELLALASSERYpo 673601 
+        Kozhikode
+      ,673601",9495413714,        30/03/2007,Islam,mappila,OBC,-
+9,FADIL BACKER,28622,Male,8.48738E+11,SAFIYA V T,SALIH P,MADYAMAM,APL,"PULPARAMBIL KARANTHUR 
+        Kozhikode
+       Kozhikode Corporation KUNNAMANGALAMpo 673571 
+        Kozhikode
+      ,673571",-,        18/04/2007,Islam,mappila,OBC,-
+10,FARSHAD KHAN  V .P,28496,Male,3.24366E+11,SAREEJA,FIROZ KHAN  .V P,PAINTER,BPL,"PULPARAMBIL MARIKUNNU 
+        Kozhikode
+       Kozhikode Corporation MARIKUNNUpo 673012 
+        Kozhikode
+      ,673012",8129863237,        10/04/2007,Islam,MAPPILA,OBC,-
+11,FATHIMA RINSHA,28383,Female,2.14699E+11,RAHMATH .P.M,ABDURAZAK .N.K,-,APL,"NAMBOORI KANDY MARIKKUNNU 
+        Kozhikode
+       Kozhikode Corporation MARIKKUNNUpo 673012 
+        Kozhikode
+      ,673012",9645359880,        17/07/2007,Islam,mappila,OBC,-
+12,HAFILKHAN. T.K,28468,Male,9.16364E+11,SHAAMSHAD. K.P,SARDAR. T.K,-,APL,"SHAHMANZIL PALATH Chelannur Grama Panchayath Chelannur Grama Panchayath Chelannur PALATHpo Kozhikode 
+        Kozhikode
+       673611",9447204188,        24/01/2007,Islam,mappila,OBC,A+
+13,HARIDEV.M,28772,Male,2.48109E+11,SHYNA.K P,SHYJU.P,-,BPL,"MOOTTOLAMBATH PARAMBIL Kuruvattur Grama Panchayath Kuruvattur Grama Panchayath Kunnamangalam PARAMBILpo Kozhikode 
+        Kozhikode
+       673012",9846064018,        30/06/2007,Hindu,thiyya,OBC,A+
+14,HILAL .P.M,28349,Male,4.7728E+11,HASEENA,HARIS,COOLI,APL,"PILATHOTTATHIL MEETHAL CHERUVATTA 
+        Kozhikode
+       Kozhikode Corporation PARAMBILpo 673012 
+        Kozhikode
+      ,673012",7737396445,        22/12/2006,Islam,mappila,OBC,O+
+15,HISANA SHERIN T M,28521,Female,8.04009E+11,SAJIDA ,ABDUL NASAR T M ,-,APL,"THONDIMANNIL HOUSE  CHERUVATTA  Kuruvattur Grama Panchayath Kuruvattur Grama Panchayath Kunnamangalam PARAMBIL po Kozhikode 
+        Kozhikode
+       673012",-,        01/02/2007,Islam,MAPPILA,OBC,O+
+16,HIYA DIHSHA,28338,Female,4.44686E+11,RAMSEENA I,DILSHAD K P,ELECTRICIAN,BPL,"NOOR MANZIL PAROPPADY 
+        Kozhikode
+       Kozhikode Corporation MARIKUNNUpo 673012 
+        Kozhikode
+      ,673012",8129614886,        14/03/2007,Muslim,Mappila,OBC,-
+17,JUBIN JOBY CHERAYATH,28356,Male,8.2709E+11,BINDU K MATHEW, JOBY GEORGE C,-,APL,"CHERAYATH MARIKUNNU 
+        Kozhikode
+       Kozhikode Corporation MARIKUNNUpo 673012 
+        Kozhikode
+      ,673012",9747841535,        11/01/2008,Christian,ROMAN CATHOLIC,General,AB+
+18,KADEEJA HIBA,28366,Female,4.59283E+11,AYISHA K A,SAJIR A K,-,BPL,"ACHANKANDI MARIKUNNU 
+        Kozhikode
+       Kozhikode Corporation MARIKUNNUpo 673012 
+        Kozhikode
+      ,673012",8129445409,        15/05/2007,Islam,mappila,OBC,O+
+19,KARTHIK C ,28727,Male,9.40665E+11,PRABITHA P,SHINOD C,BUSINESS,APL,"CHERUKKOLIL  PRAMBIL Kuruvattur Grama Panchayath Kuruvattur Grama Panchayath Kunnamangalam KURUVATTURpo Kozhikode 
+        Kozhikode
+       673611",9496422994,        27/02/2007,Hindu,thiyya,OBC,-
+20,KRISHNA DEV .T,28388,Male,3.09359E+11,SHYNI .M,BINOJ .T,BUSINESS,APL,"THIRUMANGALATH MALAPARAMBU 
+        Kozhikode
+       Kozhikode Corporation MALAPARAMBUpo 673009 
+        Kozhikode
+      ,673009",9495143972,        16/09/2006,Hindu,THIYYA,OBC,O+
+21,LIYA FARSEEN K.P,28275,Female,2.24993E+11,SABEENA,RAFEEK K.P,DRIVER,APL,"KUTTIKUTHIYAPARAMBIL MARIKUNNU 
+        Kozhikode
+       Kozhikode Corporation MARIKUNNUpo 673012 
+        Kozhikode
+      ,673012",9387275527,        11/11/2006,Islam,MAPPILA,OBC,O+
+22,MAYA KP,28262,Female,7.03846E+11,VIJINA,SASI KUMAR KP,CARPENTER,APL,"KANNANCHERI PUTHOOR PANTHIRANKAVU 
+        Kozhikode
+       Kozhikode Corporation PANTHIRANKAVUpo 673019 
+        Kozhikode
+      ,673019",8089672527,        28/05/2007,Hindu,ASARI,OBC,-
+23,MINHAJ E K,28379,Male,6.19202E+11,SHAIJA P P,ILLYAS E K,-,APL,"KANIYATTU THAZHAM KAKKODI Kakkodi Grama Panchayath Kakkodi Grama Panchayath Chelannur MORIKKARApo Kozhikode 
+        Kozhikode
+       673611",9946086375,        25/11/2007,Islam,MUSLIM,OBC,-
+24,MOHAMMED SINAN I,28647,Male,7.32577E+11,SEENATH P K,SHANAVAS I,DRIVER,APL,"IRINGATT HOUSE CHERUVATTA 
+        Kozhikode
+       Kozhikode Corporation PARAMBILpo 673012 
+        Kozhikode
+      ,673012",-,        01/11/2006,Islam,mappila,OBC,-
+25,MUHAMED FAHAD   K P,28287,Male,3.02541E+11,FASILA  K P,ANWAR HUSSAIN  K P,COOLI,APL,"PULIYAN KODE KUNNU MARIKUNNU 
+        Kozhikode
+       Kozhikode Corporation MARIKUNNUpo 673012 
+        Kozhikode
+      ,673012",9746078865,        21/05/2007,Islam,mappila,OBC,-
+26,MUHAMMAD RISHAL ,28276,Male,7.64017E+11,SHAMEERA V M,SALIM .M.S,AGRICULTURE,BPL,"MUSLIYARAKATH CHEMBUKADAVU Kodencheri Grama Panchayath Kodencheri Grama Panchayath Koduvally CHEMBUKADAVUpo Kozhikode 
+        Kozhikode
+       673580",9048254968,        23/01/2007,Islam,MAPPILA,OBC,O+
+27,MUHAMMAD ROSHAN KORATH,28992,Male,8.88392E+11,ARIFA KK,NAJIMUDHEEN KORATH,DRIVER,APL,"AREEKAL HOUSE CHELAVOOR 
+        Kozhikode
+       Kozhikode Corporation CHELAVOORpo 673571 
+        Kozhikode
+      ,673571",9645478385,        03/04/2007,Islam,MAPPILA,OBC,-
+28,MUHAMMAD SALMAN.K.P,28668,Male,4.70398E+11,FASALEENA,ABDUL RAZAK.P,-,BPL,"KUZHIYANG POYIL PARAMBIL Kuruvattur Grama Panchayath Kuruvattur Grama Panchayath Kunnamangalam PARAMBILpo Kozhikode 
+        Kozhikode
+       673012",9895139369,        10/09/2007,Islam,muslim,OBC,-
+29,MUHAMMED ADHIK SHA .P,28382,Male,3.95563E+11,SHAREEFA .P.P,SHOUKATH .P,COOLI,BPL,"PATTOTH CIVIL STATION 
+        Kozhikode
+       Kozhikode Corporation CIVIL STATIONpo 673020 
+        Kozhikode
+      ,673020",8714125228,        29/11/2006,Islam,mappila,OBC,A+
+30,MUHAMMED ADIL K P,28384,Male,7.71637E+11,HASEENA K V,HARIS K P,BUSINESS,APL,"MANATTIL PARAMBA MAKKADA Kakkodi Grama Panchayath Kakkodi Grama Panchayath Chelannur MAKKADApo Kozhikode 
+        Kozhikode
+       673611",9846353881,        05/02/2007,Islam,Muslim,OBC,A+
+31,MUHAMMED ALTHAF P,28696,Male,8.87836E+11,RAIHANATH,MANSOOR P P,MASON,APL,"PP HOUSE MAYANAD 
+        Kozhikode
+       Kozhikode Corporation MAYANADpo 673008 
+        Kozhikode
+      ,673008",-,        25/09/2007,Islam,mapilla,OBC,-
+32,MUHAMMED ANEZ TM,28624,Male,6.4995E+11,RASHIDA,HANEEF T M,-,APL,"KALATHILPARAMBA PUTHIYANGADI 
+        Kozhikode
+       Kozhikode Corporation PUTHIYANGADIpo 673021 
+        Kozhikode
+      ,673021",-,        30/03/2007,Islam,mappila,OBC,-
+33,MUHAMMED ASLAM  T P,28268,Male,2.39368E+11,FATHIMA SUHRA,ABDURAHIMAN  T .P,COOLY,APL,"PAYYADIMEETHAL MARIKUNNU 
+        Kozhikode
+       Kozhikode Corporation MARIKUNNUpo 673012 
+        Kozhikode
+      ,673012",9746625250,        10/04/2007,Islam,MAPPILA,OBC,-
+34,MUHAMMED IHSAN C.P,28368,Male,7.37394E+11,RASEENA .K.P,NOUSHAD .C.P,GRAPHIC DESIGNER,BPL,"FATHIMA'S EAST VELLIMAD KUNNU 
+        Kozhikode
+       Kozhikode Corporation CHELAVOORpo 673571 
+        Kozhikode
+      ,673571",9895250152,        25/03/2007,Islam,mappila,OBC,A+
+35,MUHAMMED NAHAL,28328,Male,4.45429E+11,SHEMEENA K,NISHAD P,COOLI,BPL,"KALATHIL POTTA  THOTTIL PEEDIKA  
+        Kozhikode
+       Kozhikode Corporation CHEVARAMBALAMpo 673010 
+        Kozhikode
+      ,673010",-,        18/02/2007,Islam,MAPPILA,OBC,-
+36,MUHAMMED NISAM T M,28491,Male,9.48476E+11,SUNEERA A C ,SHUAIB T M ,-,APL,"POOLAKKAL HOUSE  CHERUVATTA  Kuruvattur Grama Panchayath Kuruvattur Grama Panchayath Kunnamangalam PARAMBIL po Kozhikode 
+        Kozhikode
+       673012",9947197492,        25/04/2007,Islam,MAPPILA,OBC,-
+37,MUHAMMED RASHID A K,28273,Male,8.73646E+11,IRSHANA K,KHALID A K,-,BPL,"ANIKALLIL KANNADIKKAL 
+        Kozhikode
+       Kozhikode Corporation VENGERIpo 673010 
+        Kozhikode
+      ,673010",9895622464,        18/12/2006,Islam,MAPPILA,OBC,-
+38,MUHAMMED ROSHAN   P,28288,Male,4.16719E+11,FABILU  K,MUHAMMED IQBAL  .P,COOLI,APL,"PURATHOLI KIRALUR Kakkodi Grama Panchayath Kakkodi Grama Panchayath Chelannur KIZHAKUMURIpo Kozhikode 
+        Kozhikode
+       673611",-,        09/08/2007,Islam,MAPPILA,OBC,-
+39,MUHAMMED SHADIL ,29274,Male,4.89198E+11,SAFREENA M P,SAKEER K,COOLY,APL,"THAZHE CHITEDATH GULF BAZAR 
+        Kozhikode
+       Kozhikode Corporation PARAMBILpo 673012 
+        Kozhikode
+      ,673012",9847994754,        28/03/2007,Islam,MAPPILA,OBC,-
+40,MUHAMMED SHAMIL P M,28274,Male,7.96126E+11,NAZIYA  P,MUJEEB  P M,COOLI,BPL,"KUNNAM KANDARIPARAMBA PARAMBIL 
+        Kozhikode
+       Kozhikode Corporation PARAMBILpo 673012 
+        Kozhikode
+      ,673012",9605199070,        02/10/2006,Islam,mappila,OBC,-
+41,NADIA FAREEN . P.P,28374,Female,3.7351E+11,NAZREEN. A.S,MOHAMMED SHAFI. P.P,-,APL,"PALAPARAMBIL VELLIMADUKUNNU 
+        Kozhikode
+       Kozhikode Corporation MARIKKUNNUpo 673012 
+        Kozhikode
+      ,673012",9544462339,        01/01/2007,Islam,mappila,OBC,B+
+42,NOUSHIK.P.V,29347,Male,8.07618E+11,NASRATH V P,NOUFAL P V,COOLIE,APL,"BISMILLAH,PANAMKULAM KODINATTUMUKKU Olavanna Grama Panchayath Olavanna Grama Panchayath Kozhikkode OLAVANNApo Kozhikode 
+        Kozhikode
+       673019",8547034448,        02/05/2006,Islam,mappila,OBC,-
+43,RIYA FAAB,28876,Female,7.97833E+11,SHAMEENA K P,THANVEER E,COOLIE,BPL,"MALAYANTE KANDIYIL PARAKKADAV Changaroth Grama Panchayath Changaroth Grama Panchayath Perambra PALERIpo Kozhikode 
+        Kozhikode
+       673508",9745325101,        18/09/2007,Islam,MAPPILA,OBC,-
+44,ROSHAN KHAN N,28530,Male,2.30129E+11,N. SHARMILA BEGUM,D. NAYAS,-,APL,"NARIKUNNI NILLAM PARAMB KALLANDITHAZHZAM 
+        Kozhikode
+       Kozhikode Corporation CHELAVOORpo 673571 
+        Kozhikode
+      ,673571",-,        30/12/2007,Islam,Mappila,OBC,-
+45,SHADA JABIN,28307,Female,7.19167E+11,UMAIBANU M P,ABOOBACKER SIDHIQUE K K,-,BPL,"KALATHIL PARAMBU HOUSE CHELAVOOR Kunnamangalam Grama Panchayath Kunnamangalam Grama Panchayath Kunnamangalam CHELAVOORpo Kozhikode 
+        Kozhikode
+       673571",-,        09/12/2007,Islam,mappila,OBC,-
+46,SHIYANA MARIYAM MP,28318,Female,3.37391E+11,ASMA,SILHAD  .M P,-,APL,"MEETHALAPEEDIKA KARIKKAMKULAM 
+        Kozhikode
+       Kozhikode Corporation KARAPPARAMBpo 673010 
+        Kozhikode
+      ,673010",-,        16/05/2007,Islam,MAPPILA,OBC,-
+47,SOORYA NARAYANAN,28358,Male,9.47073E+11,LISHA .M,BIJU LAL .P,-,APL,"MAYOOKAM EAST VELLIMAD KUNNU 
+        Kozhikode
+       Kozhikode Corporation MARIKKUNNUpo 673012 
+        Kozhikode
+      ,673012",9847099499,        04/08/2007,Hindu,THIYYA,OBC,-
+48,SOORYA.C.T,28704,Male,5.72115E+11,SUMATHI.K,SUNI.C.T,-,APL,"MAMMILI THAZHAM PAROPPADI 
+        Kozhikode
+       Kozhikode Corporation MERIKKUNNUpo 673008 
+        Kozhikode
+      ,673008",-,        18/09/2007,Hindu,CHERUMA,SC,-
+49,SWALIH MUHAMMED.V,28390,Male,8.87646E+11,RASHEEDA BEEVI.V.A,FAIZAL.P.V,-,APL,"VAZHAYIL HOUSE  MUTTIL Muttil Grama Panchayath Muttil Grama Panchayath Kalpetta MUTTILpo Wayanad 
+        Wayanad
+       673122",9947668708,        10/07/2007,Islam,mappila,OBC,-
